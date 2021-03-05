@@ -1,6 +1,6 @@
 import numpy as np
 import torch 
-from iou_losses import GiouLoss, DiouLoss
+from iou_extension_losses import GiouLoss, DiouLoss
 
 
 def main():
