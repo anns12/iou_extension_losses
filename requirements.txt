@@ -1,0 +1,6 @@
+cudatoolkit=10.2
+pytorch=1.5
+numpy
+matplotlib
+argparse
+tsort
