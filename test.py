@@ -24,7 +24,7 @@ def main():
     diou_loss = DiouLoss()
 
     print("GIoU Loss Result: ", giou_loss(tensor_gt, tensor_pred))
-    print("GIoU Loss Result: ", diou_loss(tensor_gt, tensor_pred))
+    print("DIoU Loss Result: ", diou_loss(tensor_gt, tensor_pred))
 
 
 
